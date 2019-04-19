@@ -1,0 +1,8 @@
+gogs:
+   restart: unless-stopped
+   image: gogs/gogs
+   ports:
+      - "127.0.0.1:10022:22"
+      - "127.0.0.1:10080:3000"
+   volumes:
+       - /data/gogs:/data

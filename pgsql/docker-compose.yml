@@ -1,0 +1,11 @@
+postgres_db:
+  restart: always
+  image: postgres
+  ports:
+    - 5433:5432
+  environment:
+    POSTGRES_USER: text_movie
+    POSTGRES_PASSWORD: textmovie123
+    PGDATA: /var/lib/postgresql/data/pgdata
+  volumes:
+    - ./data:/var/lib/postgresql/data/pgdata
