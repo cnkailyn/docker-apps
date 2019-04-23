@@ -28,7 +28,7 @@ https://github.com/gogs/gogs
 > 主流的非关系型数据库mongodb。
 
 * dockerhub地址
-https://hub.docker.com/\_/mongo
+https://hub.docker.com/_/mongo
 
 
 ## mysql
@@ -36,7 +36,7 @@ https://hub.docker.com/\_/mongo
 > 主流的关系型数据库mysql。
 
 * dockerhub地址
-https://hub.docker.com/\_/mysql
+https://hub.docker.com/_/mysql
 
 
 ## pgsql
