@@ -62,3 +62,12 @@ https://github.com/AliyunContainerService/redis-cluster
 
 * github地址
 https://github.com/SeleniumHQ/docker-selenium
+
+
+
+## zookeeper
+
+> 分布式配置中心
+
+* dockerhub地址
+https://hub.docker.com/_/zookeeper
