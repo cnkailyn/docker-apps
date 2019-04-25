@@ -12,7 +12,7 @@
 > * pgsql
 > * redis-cluster
 > * selenium
-
+> * zookeeper
 
 ## gogs
 
